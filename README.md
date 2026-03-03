@@ -22,21 +22,21 @@ El objetivo principal es pasar de conceptos teóricos a la capacidad operativa p
 
 ## 🗓️ Roadmap de 5 Meses
 
-### 🧱 Mes 1: El Ecosistema de Identidad (Active Directory & IAM)
+###  Mes 1: El Ecosistema de Identidad (Active Directory & IAM)
 *El 90% de los problemas de PAM nacen en Active Directory.*
 - **Semana 1:** Fundamentos IAM (AAA, RBAC, ABAC, JML - Joiner, Mover, Leaver).
 - **Semana 2:** Instalación de Windows Server y configuración de Domain Controller (DC) en laboratorio virtual.
 - **Semana 3:** Gestión profunda de Usuarios, Grupos de Seguridad y Unidades Organizativas (OU).
 - **Semana 4:** Protocolos de autenticación: Kerberos, NTLM, LDAP y DNS.
 
-### ⚡ Mes 2: PowerShell - De Scripting a Automatización
+###  Mes 2: PowerShell - De Scripting a Automatización
 *La herramienta indispensable para gestionar a escala.*
 - **Semana 1:** Sintaxis base, Variables, Objetos y dominio del Pipeline (`|`).
 - **Semana 2:** Módulo de Active Directory (`Get-ADUser`, `New-ADGroup`).
 - **Semana 3:** Scripting avanzado: Funciones, manejo de errores (`Try/Catch`), bucles (`ForEach`).
 - **Semana 4:** Módulo `SecretManagement` y APIs REST (Conectando PowerShell con herramientas web sin credenciales en texto plano).
 
-### 🛡️ Mes 3: Inmersión en CyberArk
+###  Mes 3: Inmersión en CyberArk
 *Comprendiendo el estándar de la industria.*
 - **Semana 1:** Teoría PAM (Riesgos, Compliance, Auditoría) e Introducción a CyberArk.
 - **Semana 2:** Arquitectura CyberArk: Digital Vault, CPM, PSM, PVWA, y Disaster Recovery.
@@ -44,14 +44,14 @@ El objetivo principal es pasar de conceptos teóricos a la capacidad operativa p
 - **Semana 4:** Credential Providers (CP) y eliminación de credenciales hardcodeadas (AAM).
 - **Hito:** Obtención de la certificación gratuita *CyberArk Trustee*.
 
-### 🔐 Mes 4: BeyondTrust & Operaciones de Seguridad
+###  Mes 4: BeyondTrust & Operaciones de Seguridad
 *Conociendo alternativas y procesos operativos.*
 - **Semana 1:** Arquitectura BeyondTrust Password Safe (U-Series, BeyondInsight).
 - **Semana 2:** Smart Rules y Discovery (Automatización de hallazgo de cuentas huérfanas).
 - **Semana 3:** Gestión de Sesiones (RDP/SSH Proxy), Auditoría y Endpoint Privilege Management.
 - **Semana 4:** Comparativa Técnica y de Casos de Uso: CyberArk vs. BeyondTrust.
 
-### ☁️ Mes 5: Nube, Integraciones y Proyecto Final
+###  Mes 5: Nube, Integraciones y Proyecto Final
 *Llevando la identidad al entorno híbrido.*
 - **Semana 1:** Microsoft Entra ID (Azure AD) y Privileged Identity Management (PIM).
 - **Semana 2:** Integraciones teóricas de PAM con herramientas de ticketing (ServiceNow) y SIEMs (Splunk/Sentinel).
