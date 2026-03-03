@@ -74,6 +74,10 @@ El objetivo principal es pasar de conceptos teóricos a la capacidad operativa p
 3. **Documenta los Errores:** Cada vez que un script de PowerShell falle o un GPO no se aplique, anota el código de error y cómo lo solucionaste. Este repositorio debe convertirse en tu propia base de conocimiento.
 4. **Cuidado con los Secretos:** Nunca subas scripts a este repositorio que contengan contraseñas reales, IPs públicas o datos sensibles. Usa variables de entorno o módulos de gestión de secretos.
 5. **Dibuja la Arquitectura:** Las herramientas PAM son abstractas. Dibuja diagramas de flujo de cómo viaja una contraseña desde que un usuario la solicita hasta que se inyecta en el servidor destino.
+6. **Errores y Troubleshooting** Esta es la sección más valiosa para un ingeniero. ¿Qué se rompió y cómo lo arreglaste?
+Error encontrado: [Ej. El script me dio un error de "Access Denied" al ejecutar Invoke-Command]
+Causa raíz: [Ej. No estaba ejecutando la consola como Administrador / Faltaba habilitar WinRM]
+Solución aplicada: [Ej. Ejecutar Enable-PSRemoting -Force en el servidor destino]
 
 ---
 > *"La identidad es el nuevo perímetro de seguridad."*
