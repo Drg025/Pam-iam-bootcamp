@@ -1,4 +1,4 @@
-# 🚀 Zero to Hero: Privileged Access Management (PAM) Bootcamp
+#  Zero to Hero: Privileged Access Management (PAM) Bootcamp
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 ![Active Directory](https://img.shields.io/badge/Tech-Active%20Directory-blue)
@@ -12,7 +12,7 @@ El objetivo principal es pasar de conceptos teóricos a la capacidad operativa p
 
 ---
 
-## 🎯 Objetivos del Bootcamp
+##  Objetivos del Bootcamp
 - Comprender a fondo la arquitectura de **Identity & Access Management (IAM)** y el ciclo de vida de las identidades.
 - Dominar **PowerShell** como herramienta principal para la automatización, gestión de Active Directory y consumo de APIs (REST).
 - Entender la arquitectura, despliegue y administración de los líderes de la industria PAM: **CyberArk** y **BeyondTrust Password Safe**.
@@ -20,7 +20,7 @@ El objetivo principal es pasar de conceptos teóricos a la capacidad operativa p
 
 ---
 
-## 🗓️ Roadmap de 5 Meses
+##  Roadmap de 5 Meses
 
 ###  Mes 1: El Ecosistema de Identidad (Active Directory & IAM)
 *El 90% de los problemas de PAM nacen en Active Directory.*
@@ -59,7 +59,7 @@ El objetivo principal es pasar de conceptos teóricos a la capacidad operativa p
 
 ---
 
-## 🛠️ Herramientas y Laboratorio
+##  Herramientas y Laboratorio
 - **Virtualización:** Oracle VirtualBox / VMware Workstation.
 - **Sistemas Operativos:** Windows Server 2019/2022, Windows 10/11 Enterprise, distribuciones Linux base.
 - **Editor:** Visual Studio Code (con extensiones de PowerShell y Markdown).
@@ -67,7 +67,7 @@ El objetivo principal es pasar de conceptos teóricos a la capacidad operativa p
 
 ---
 
-## 💡 Consejos
+##  Consejos
 
 1. **Sincronización Total:** Mantén tus apuntes, diagramas y scripts de PowerShell sincronizados entre tu PC de escritorio y tu laptop usando herramientas como Syncthing. Tener tus notas a la mano en cualquier dispositivo te salvará la vida cuando estés haciendo *troubleshooting* de Active Directory o repasando conceptos.
 2. **El Laboratorio es tu Mejor Amigo:** No te quedes solo viendo tutoriales en YouTube. Levanta las máquinas virtuales, rompe el Active Directory y vuélvelo a arreglar. La experiencia real viene de leer los logs de error.
